@@ -1,0 +1,11 @@
+{
+  "name": "bearlab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ideas-bear-ideas/bearlab.git",
+  "author": "iron <iron@zipbob.net>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
