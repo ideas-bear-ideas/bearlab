@@ -6,6 +6,7 @@
   "author": "iron <iron@zipbob.net>",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^3.3.7",
+    "jquery.easing": "^1.4.1"
   }
 }
